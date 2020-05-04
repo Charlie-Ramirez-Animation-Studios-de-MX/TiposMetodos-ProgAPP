@@ -1,5 +1,5 @@
 # TiposMetodos-ProgAPP
-TiposMetodos-ProgAPP
+TiposMetodos Programa durante las Clases en Linea via Clasroom CoVID-19. del martes, 21 de abril de 2020 15:13:16 CDT
 
 
 								Licencia MIT, 
